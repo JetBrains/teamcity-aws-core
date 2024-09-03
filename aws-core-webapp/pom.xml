@@ -31,7 +31,7 @@
             <plugin>
                 <groupId>org.jetbrains.teamcity</groupId>
                 <artifactId>teamcity-maven-plugin</artifactId>
-                <version>1.6.27</version>
+                <version>1.6.33</version>
                 <executions>
                     <execution>
                         <id>teamcity-assemble-plugin</id>
